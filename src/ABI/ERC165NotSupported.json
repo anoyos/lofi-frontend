@@ -1,0 +1,115 @@
+{
+  "contractName": "ERC165NotSupported",
+  "abi": [],
+  "metadata": "{\"compiler\":{\"version\":\"0.8.2+commit.661d1103\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"kind\":\"dev\",\"methods\":{},\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"project:/contracts/openzeppelin-solidity/contracts/mocks/ERC165/ERC165NotSupported.sol\":\"ERC165NotSupported\"},\"evmVersion\":\"istanbul\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":false,\"runs\":200},\"remappings\":[]},\"sources\":{\"project:/contracts/openzeppelin-solidity/contracts/mocks/ERC165/ERC165NotSupported.sol\":{\"keccak256\":\"0x030a6419e5850ff201a812ccce892700d5ef8d0a7e4926262a2492e04630ab2c\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://a143842eb85b45d82afa5a821334c5e3ce80accd53b39684da606fded4920074\",\"dweb:/ipfs/QmUtYEetC5b2jsKuMkZzweJnPgZDNjNRLx1uq7kic9jpAR\"]}},\"version\":1}",
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea264697066735822122016eca5dc44110d2cf0d95abcbb1860d4b4b6f8e67ddb091801c84265e6e5409664736f6c63430008020033",
+  "deployedBytecode": "0x6080604052600080fdfea264697066735822122016eca5dc44110d2cf0d95abcbb1860d4b4b6f8e67ddb091801c84265e6e5409664736f6c63430008020033",
+  "immutableReferences": {},
+  "generatedSources": [],
+  "deployedGeneratedSources": [],
+  "sourceMap": "62:30:90:-:0;;;;;;;;;;;;;;;;;;;",
+  "deployedSourceMap": "62:30:90:-:0;;;;;",
+  "source": "// SPDX-License-Identifier: MIT\r\n\r\npragma solidity ^0.8.0;\r\n\r\ncontract ERC165NotSupported {}\r\n",
+  "sourcePath": "C:\\Users\\Administrator\\Downloads\\lofi_marketplace_frontend\\contracts\\openzeppelin-solidity\\contracts\\mocks\\ERC165\\ERC165NotSupported.sol",
+  "ast": {
+    "absolutePath": "project:/contracts/openzeppelin-solidity/contracts/mocks/ERC165/ERC165NotSupported.sol",
+    "exportedSymbols": {
+      "ERC165NotSupported": [
+        9081
+      ]
+    },
+    "id": 9082,
+    "license": "MIT",
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 9080,
+        "literals": [
+          "solidity",
+          "^",
+          "0.8",
+          ".0"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "35:23:90"
+      },
+      {
+        "abstract": false,
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "fullyImplemented": true,
+        "id": 9081,
+        "linearizedBaseContracts": [
+          9081
+        ],
+        "name": "ERC165NotSupported",
+        "nameLocation": "71:18:90",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 9082,
+        "src": "62:30:90"
+      }
+    ],
+    "src": "35:59:90"
+  },
+  "legacyAST": {
+    "absolutePath": "project:/contracts/openzeppelin-solidity/contracts/mocks/ERC165/ERC165NotSupported.sol",
+    "exportedSymbols": {
+      "ERC165NotSupported": [
+        9081
+      ]
+    },
+    "id": 9082,
+    "license": "MIT",
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 9080,
+        "literals": [
+          "solidity",
+          "^",
+          "0.8",
+          ".0"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "35:23:90"
+      },
+      {
+        "abstract": false,
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "fullyImplemented": true,
+        "id": 9081,
+        "linearizedBaseContracts": [
+          9081
+        ],
+        "name": "ERC165NotSupported",
+        "nameLocation": "71:18:90",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 9082,
+        "src": "62:30:90"
+      }
+    ],
+    "src": "35:59:90"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.8.2+commit.661d1103.Emscripten.clang"
+  },
+  "networks": {},
+  "schemaVersion": "3.4.5",
+  "updatedAt": "2022-02-21T16:24:46.252Z",
+  "devdoc": {
+    "kind": "dev",
+    "methods": {},
+    "version": 1
+  },
+  "userdoc": {
+    "kind": "user",
+    "methods": {},
+    "version": 1
+  }
+}
